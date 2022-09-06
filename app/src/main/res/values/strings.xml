@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Disco Orario</string>
+    <string name="textview">"Inserisci i minuti di permanenza "</string>
+    <string name="button">Start</string>
+    <string name="textview1">Il disco orario scadrà alle ore:</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textview2">Tempo scaduto</string>
+    <string name="button2">Trova la mia macchina</string>
+    <string name="textviewCoordinate">coordinate</string>
+    <string name="API_key">AIzaSyBQGuCOIGsD_KdkIioOB4OpM_IJV28DGQE</string>
+</resources>
